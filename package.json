@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://authflow-api.vercel.app"
+  "proxy": "https://authflow-api.onrender.com"
 }
